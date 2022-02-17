@@ -1,0 +1,11 @@
+Analisis de problemsa segun requerimientos:
+
+El problema incial segun indica el contexto del problema, es que la empresa de seguros no esta automatizada, al hacer todas las cotizaciones manuales se pierde tiempo como bien indica el contexto y por ser una empresa que es muy frecuentada a diario necesitan agilizar este mismo proceso para no perder clientes.
+
+Los casos para poder cambiar el valor de la cotizacion son los siguientes: 
+
+1. Al realizar el programa se debe tomar en cuenta todos los campos, que serian, edad, si esta casado,edad del conyuge, si tiene hijos y cuantos hijos tiene. 
+
+2. Luego realizando un algoritmo podemos empezar a hacer nuestro cotizador automatico.
+
+3. Tenemos que tomar unicamente los valores necesarios para realizar el mismo para que la interfaz con el trabajador sea sencillo.

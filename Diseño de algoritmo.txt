@@ -1,0 +1,20 @@
+DISEÑO DE ALGORITMO
+
+1. El primer punto seria solicitar el nombre para el aegurado. 
+
+2. Preguntar su edad.
+2.1 Dependiendo la edad asi sera el porcentaje de recargo.
+2.2 No puede ser menor de edad.
+
+3. Se le pregunta el si esta casado o casada.
+3.1 Si la respuesta es afirmativa se le pregunta la edad de su conyuge 
+3.2 Dependiendo la edad del conyuge asi sera el porcentaje recargo
+3.3 El conyuge tiene que ser mayor de edad
+
+4. Se le pregunta si tiene hijos o no.
+4.1 Si la pregunta es afirmativa se le pregunta la cantidad de hijos.
+4.2 El recargo por asegurar hijos es unico, seria del 20% por hijo.
+
+5.Despues de ingresar todos los datos correspodientes el programa se encarga de calcular uno por uno los recargos que se le deben de cobrar al asegurado. Se le cobrara unicamente los recargos a los que aplique. 
+
+6. Por ultimo el cotizador automatico le mostrara en un cuadro de dialogo el nombre del asegurado, luego la cantidad por recargos extra y finalmente el precio total de la cotización. 
